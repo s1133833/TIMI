@@ -1,0 +1,58 @@
+#ncyu{
+  position:absolute;
+  border:solid 10px pink;
+  top:150px;
+  left:300px;
+}
+#ico{
+  width:500px;
+}
+
+.title{
+ position:relative;
+ color:	#FF60AF;
+ width:1500;
+ height:10px;
+ font-size:65px;
+ font-weight:900;
+ top:50px;
+ left:290px;
+}
+
+.neko img{
+      position: absolute;
+      border:solid 10px #FF79BC	;
+      top: 150px;
+      left: 50px;
+      width: 200px;
+      height: 200px;
+}
+
+.font{
+ position:fixed;
+ color:	#408080;
+ width:1500;
+ height:10px;
+ font-size:28px;
+ font-weight:900;
+ top:400px;
+ left:50px;
+}
+
+.button{
+  background-color: #D3A4FF;
+  border: solid 10px #921AFF;
+  color: #3A006F;
+  width:30;
+  padding: 15px 32px;
+  font-size: 20px;
+}
+body{
+background:#CCFF80;
+}
+
+.word{
+  color:#F75000;
+  font-size:25px;
+  
+}
